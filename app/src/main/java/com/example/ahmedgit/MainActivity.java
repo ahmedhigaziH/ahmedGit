@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         flag=false;
         Thread.interrupted();
     }
-    public void Reset(View view) {
+    public void Reset1(View view) {
         flag=false;
         Thread.interrupted();
         txt.setText("00:00");
